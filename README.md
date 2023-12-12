@@ -40,8 +40,6 @@
 
 **4. 입학안내 (admission)** <br>
 <img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/fd0b78f6-9962-4913-862e-fc53848b6a95 width="230" height="230" />
-* userID, Password를 입력하고 **Sign in** 버튼을 클릭하면 **index.jsp**로 넘어간다.<br>
-* ⚠ 모든 항목이 작성되어야 한다.<br><br>
 
 **5. 커뮤니티 (community)** <br>
 <img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/cec93bb6-fb25-4308-9c23-313f0855900e width="230" height="230" />
