@@ -19,10 +19,10 @@
 <br><br>
 
 ### 📲 주요 기능
-**1. 학과소개 (info)**
+**1. 학과소개 (info)** <br>
 <img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/cf8e6410-107e-4502-becb-aefa2a83411e width="200" height="200" />
 <img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/fd28fd6a-9608-4c6c-bf40-30963557a29c width="200" height="200" />
-<img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/5b4b3024-93f6-4017-8dce-1c5dd8417084 width="200" height="200" />
+<img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/5b4b3024-93f6-4017-8dce-1c5dd8417084 width="200" height="200" /> <br>
 <img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/47a68196-c20c-4a5d-9fd7-c1495a258ee5 width="200" height="200" />
 <img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/027e3c09-0d42-4d50-8bed-89d5a8f9915c width="200" height="200" />
 <img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/9ae9aa63-609d-45bc-8bb1-7257fc1f9a98 width="200" height="200" />
