@@ -28,8 +28,6 @@
 <img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/9ae9aa63-609d-45bc-8bb1-7257fc1f9a98 width="230" height="230" />
 <img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/b97a045c-72ed-41e8-88d4-7fc35cf20b59 width="230" height="230" />
 
-
-
 **2. 교수소개 (professsor)** <br>
 <img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/17c72583-6e10-478e-b7d1-65a22c465cae width="230" height="230" />
 <img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/ca746d75-da11-4dc5-8b8b-661d4f4f17a5 width="230" height="230" />
