@@ -1,5 +1,6 @@
 # 강원대학교 AI소프트웨어학과 홈페이지
-![home](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/60afa5a8-e723-4bc7-bbcd-8b318f4cbf89)
+![index](https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/4d12b16f-f3cf-4b88-a80c-4ed884d9297a)
+
 <br><br>
 
 ## 💻 프로젝트 소개
@@ -18,28 +19,28 @@
 <br><br>
 
 ### 📲 주요 기능
-**1. 회원가입 (userJoin.jsp)**
+**1. 학과소개 (info)**
 ![join](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/e2451398-f5da-4944-8ac3-a35494b99b3e)
 * userID, Password, Email을 작성하고, **Sign up** 버튼을 클릭하면 이메일 인증 페이지로 넘어간다.
 * ⚠ 모든 항목이 작성되어야 한다.<br><br>
 
-**2. 인증 이메일 전송 (emailSendAction.jsp)**
+**2. 교수소개 (professsor)**
 ![이메일 인증](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/e174b40f-8893-4d05-9a09-cffc964ba0f2)
 ![이메일 확인](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/b90ed7fe-60b6-4d84-80c0-fe72059cd16a)
 * 사용자가 **이메일 인증하기** 링크를 클릭하면, 로그인된 상태로 **index.jsp**로 넘어간다.<br><br>
 
-**3. 인증 이메일 재전송 (emailSendConfirm.jsp)**
+**3. 학사안내 (bechelor)**
 ![이메일 인증 2](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/7413e686-8f52-4351-a4a2-9f3512105383)
 * 이메일 인증을 하지 않은 사용자는 위와 같은 페이지로 이동한다.
 * **다시 받기** 버튼을 클릭하면, 다시 인증 메일을 받을 수 있다.<br><br>
 
-**4. 로그인 (userLogin.jsp)**
+**4. 입학안내 (admission)**
 ![login](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/edf71b23-03b9-4652-97a0-4a35e65ffaca)
 * userID, Password를 입력하고 **Sign in** 버튼을 클릭하면 **index.jsp**로 넘어간다.<br>
 * ⚠ 모든 항목이 작성되어야 한다.<br><br>
 
-**5. 메인화면 (index.jsp)<br>**
-![index](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/0967202b-9879-4564-abc0-5453c4f458f5)
+**5. 커뮤니티 (community)**
+![freeboard](https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/cec93bb6-fb25-4308-9c23-313f0855900e)
 * 사용자들이 작성한 강의평을 확인할 수 있다.
 * 강의평 등록 및 신고하기 기능이 있다.
 * 사용자는 강의평을 추천할 수 있다. 하지만 중복 추천은 **불가능**하다.
