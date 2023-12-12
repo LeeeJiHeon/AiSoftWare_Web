@@ -46,8 +46,3 @@
 <img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/7ded9b70-d22d-40ce-aa03-99db731a9292 width="230" height="230" />
 <br><br>
 
-## 💡 깨달은 점
-* XSS 방어
-  - XSS란 Cross Site Scripting으로 악의적인 사용자가 사이트에 스크립트를 넣어 공격하는 기법.
-  - `<script></script>` 구문이 작성될 경우, 다른 문자로 치환
-  - String object`.replaceAll("<", "&lt;").replaceAll(">", "&gt").replaceAll("\r\n", "<br>")`
