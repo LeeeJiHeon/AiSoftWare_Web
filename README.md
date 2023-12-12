@@ -22,22 +22,26 @@
 **1. 학과소개 (info)** <br>
 <img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/cf8e6410-107e-4502-becb-aefa2a83411e width="200" height="200" />
 <img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/fd28fd6a-9608-4c6c-bf40-30963557a29c width="200" height="200" />
-<img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/5b4b3024-93f6-4017-8dce-1c5dd8417084 width="200" height="200" /> <br>
-<img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/47a68196-c20c-4a5d-9fd7-c1495a258ee5 width="200" height="200" />
+<img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/5b4b3024-93f6-4017-8dce-1c5dd8417084 width="200" height="200" /> 
+<img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/47a68196-c20c-4a5d-9fd7-c1495a258ee5 width="200" height="200" /> <br>
 <img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/027e3c09-0d42-4d50-8bed-89d5a8f9915c width="200" height="200" />
 <img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/9ae9aa63-609d-45bc-8bb1-7257fc1f9a98 width="200" height="200" />
+<img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/b97a045c-72ed-41e8-88d4-7fc35cf20b59 width="200" height="200" />
 
+![교육과정](https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/59d0ae70-e34c-41c2-b243-61de9bd04103)
+![글쓰기](https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/7ded9b70-d22d-40ce-aa03-99db731a9292)
 
-* userID, Password, Email을 작성하고, **Sign up** 버튼을 클릭하면 이메일 인증 페이지로 넘어간다.
-* ⚠ 모든 항목이 작성되어야 한다.<br><br>
+![모집요강](https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/fd0b78f6-9962-4913-862e-fc53848b6a95)
+![학사일정](https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/b14e65ff-14cd-4195-bf93-29d6d3ffd839)
 
 **2. 교수소개 (professsor)**
-![이메일 인증](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/e174b40f-8893-4d05-9a09-cffc964ba0f2)
-![이메일 확인](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/b90ed7fe-60b6-4d84-80c0-fe72059cd16a)
-* 사용자가 **이메일 인증하기** 링크를 클릭하면, 로그인된 상태로 **index.jsp**로 넘어간다.<br><br>
+<img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/17c72583-6e10-478e-b7d1-65a22c465cae width="200" height="200" />
+<img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/ca746d75-da11-4dc5-8b8b-661d4f4f17a5 width="200" height="200" />
+br><br>
 
 **3. 학사안내 (bechelor)**
-![이메일 인증 2](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/7413e686-8f52-4351-a4a2-9f3512105383)
+<img src=https://github.com/LeeeJiHeon/AiSoftWare_Web/assets/79850216/59d0ae70-e34c-41c2-b243-61de9bd04103 width="200" height="200" />
+
 * 이메일 인증을 하지 않은 사용자는 위와 같은 페이지로 이동한다.
 * **다시 받기** 버튼을 클릭하면, 다시 인증 메일을 받을 수 있다.<br><br>
 
